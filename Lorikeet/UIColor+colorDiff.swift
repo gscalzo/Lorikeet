@@ -9,7 +9,7 @@
 import UIKit
 
 public extension UIColor {
-    public var lkt: Lorikeet {
+    var lkt: Lorikeet {
         return Lorikeet(self)
     }
 }
