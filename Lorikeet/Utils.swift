@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 struct Utils {
     static func hsv2Color(h: CGFloat, s: CGFloat = 0.5, v: CGFloat = 0.95, alpha: CGFloat) -> UIColor {
